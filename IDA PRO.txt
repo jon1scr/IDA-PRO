@@ -6,15 +6,13 @@ https://pan.baidu.com/s/1rZ2_wGiiAvVljKfY3HSuTw
 https://bayfiles.com/Y1E6re9dna/aWRhLTcuMgo_rar
 https://rutracker.org/forum/viewtopic.php?t=5748289
 
-
-
-best plugins: https://bayfiles.com/h8y71bLdnc/plugins_for_ida_zip
-
-
-
+--------------------------------------------------------------------------
+IDA 7.2 green
 https://pan.baidu.com/s/1OyGtZ_mrrOOxMM8rw5l0cA 
 supj
 
+best plugins: https://bayfiles.com/h8y71bLdnc/plugins_for_ida_zip
+--------------------------------------------------------------------------
 
 IDA Pro automatically finds structure plugin
 https://bbs.pediy.com/thread-249552.htm
