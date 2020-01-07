@@ -8,10 +8,16 @@ https://rutracker.org/forum/viewtopic.php?t=5748289
 
 --------------------------------------------------------------------------
 IDA 7.2 green
+
 https://pan.baidu.com/s/1OyGtZ_mrrOOxMM8rw5l0cA 
 supj
 
+or
+
+http://www.mediafire.com/file/qs67z8y1r0uf252/IDA_7.2_green.rar/file
+
 best plugins: https://bayfiles.com/h8y71bLdnc/plugins_for_ida_zip
+
 --------------------------------------------------------------------------
 
 IDA Pro automatically finds structure plugin
